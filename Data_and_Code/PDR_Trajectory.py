@@ -10,7 +10,7 @@ from Code.Projects.FileLoad import read_data
 Load acceleration and gyroscope data, reconstruct one PDR trajectory, and report trajectory-level metrics against the reference path.
 '''
 
-data_name = "Path1_Personnel1_01_163"
+data_name = "Path1_Personnel1_01"
 
 
 def main():

@@ -29,7 +29,7 @@ def process_all_subfolders(main_path):
 def main():
     # ================= Configuration Area =================
     # Please specify the directory path containing all dataset groups here
-    main_folder_path = "./Dataset/Path3"
+    main_folder_path = "./Dataset/Path1"
 
     subfolders = process_all_subfolders(main_folder_path)
     if not subfolders:
